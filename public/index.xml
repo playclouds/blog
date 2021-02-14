@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlayClouds</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on PlayClouds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>PlayClouds@example.com (yourname)</managingEditor>
+    <webMaster>PlayClouds@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 PlayClouds.</copyright><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.example.com/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>PlayClouds@example.com (yourname)</author>
+      <guid>http://www.example.com/1/01/01/</guid>
+      <description>license.mdlicense.mdlicense.mdlicense.mdlicense.md</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.example.com/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>PlayClouds@example.com (yourname)</author>
+      <guid>http://www.example.com/1/01/01/</guid>
+      <description>dsadsadsa dsadsadsadsadsapost1.mdpost1.mdpost1.mdpost1.md</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.example.com/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>PlayClouds@example.com (yourname)</author>
+      <guid>http://www.example.com/1/01/01/</guid>
+      <description>dsadsadsa dsadsadsadsadsapost1.mdpost2.mdpost2.mdpost2.md</description>
+    </item>
+    
+  </channel>
+</rss>
